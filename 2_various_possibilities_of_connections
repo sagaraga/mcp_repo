@@ -1,0 +1,8 @@
+There are various possibilities of connection between MCP server and client
+
+1. Readymade MCP client to Readymade MCP Server , Ex : Claude Desktop and FileSystem Coneector ( access given to Workspace Directory )
+2. Readymade MCP client to Custom MCP Local server, Ex : Created local Arithmetic MCP Server and configured in claude_desktop_config.json
+3. Readymade MCP client to Custom MCP Remote server
+4. Custom MCP client to Readymade MCP Server
+5. Custom MCP client to Custom MCP Local Server
+6. Custom MCP client to Custom MCP Remote server
