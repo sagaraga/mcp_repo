@@ -1,2 +1,7 @@
 3_math-local-mcp-server/.venv/
 3_math-local-mcp-server/__pycache__/
+4_expense_tracker_remote_mcp_server/.venv/
+4_expense_tracker_remote_mcp_server/__pycache__/
+5_custom_mcp_client/.env
+5_custom_mcp_client/.venv/
+5_custom_mcp_client/__pycache__/

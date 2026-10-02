@@ -1,0 +1,2 @@
+1. here we used fastmcp cloud api key for authentication between client and service provider
+2. Check python run commands once if we get any error, because by default python path is setting to another project
